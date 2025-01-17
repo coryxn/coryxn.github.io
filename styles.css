@@ -1,8 +1,10 @@
 /* This is a CSS comment. Comments are ignored by the browser */
-
 /* Use CSS selectors and rules to style your portfolio page */
+header {
+  font-size: 30px';
+}
 body {
-  font-family: Chewy;
+  font-style: Chewy;
   font-size: 16px;
 }
 #acads {
