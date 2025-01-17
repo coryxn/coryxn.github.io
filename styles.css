@@ -6,8 +6,8 @@ body {
   font-size: 16px;
 }
 #acads {
-  font-size: 20px;
+  colour: red;
 }
 .fun {
-  font-strength: bold
+  font-weight: bold
 }
