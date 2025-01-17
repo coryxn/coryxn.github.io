@@ -4,5 +4,10 @@
 body {
   font-family: Lobster;
   font-size: 16px;
-  
+}
+#acads {
+  font-size: 20px;
+}
+.fun {
+  font-strength: bold
 }
